@@ -12,6 +12,9 @@ a:hover {
 }
 .my-header h1 {
     padding: 10px;
+    font-size: 30px;
+    color: black;
+    font-weight: 600;
 }
 .avatar {
     vertical-align: middle;
@@ -26,5 +29,8 @@ a:hover {
     text-align: center;
     margin: auto;
     font-size: 50px;
+}
+.nav-bar {
+    display: none;
 }
 
