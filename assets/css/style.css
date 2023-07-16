@@ -1,0 +1,30 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+.my-header {
+    text-align: center;
+    padding: 20px;
+}
+.my-header h1 {
+    padding: 10px;
+}
+.avatar {
+    vertical-align: middle;
+    width: 100px;
+    border-radius: 50%;
+}
+.my-row1 img {
+    padding: 25px;
+    width: 100%;
+}
+.right-link {
+    text-align: center;
+    margin: auto;
+    font-size: 50px;
+}
+
